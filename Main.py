@@ -8,7 +8,7 @@ class Stack:
         # Write code here
         if len(self.items)==0:
             return True
-         else:
+        else:
             return False
 
     def is_full(self):
