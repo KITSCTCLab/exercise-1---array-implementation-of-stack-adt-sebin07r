@@ -6,14 +6,14 @@ class Stack:
 
     def is_empty(self):
         # Write code here
-        if len(self.items)==0;
+        if len(self.items)==0:
         return True
     else:
         return False
 
     def is_full(self):
         # Write code here
-        if len(self.items)==sel.size:
+        if len(self.items)==self.size:
         return True
     else:
         return False
