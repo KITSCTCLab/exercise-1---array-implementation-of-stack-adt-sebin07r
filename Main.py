@@ -7,19 +7,19 @@ class Stack:
     def is_empty(self):
         # Write code here
         if len(self.items)==0;
-        return==True
+        return True
     else:
         return False
 
     def is_full(self):
         # Write code here
         if len(self.items)==sel.size:
-        return==True
+        return True
     else:
         return False
 
     def push(self, data):
-        if not self.is_full();
+        if not self.is_full():
             # Write code here
             self.items.append(data)
 
